@@ -2,7 +2,7 @@
 
 ##Especificações do Projeto
 ###Nome do Projeto
-* Ferramenta de monitoramento de hosts web
+* Ferramenta de monitoramento de hosts web (Hostview)
 
 ###Funcionalidades da ferramenta
 * Cadastrar hosts
